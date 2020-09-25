@@ -1,0 +1,36 @@
+C:\Users\GITAM\PycharmProjects\heartdisease\venv1\Scripts\python.exe C:/Users/GITAM/PycharmProjects/Freelancers/venv/june/rough.py
+Positive tweets percentage: 33.333333333333336 %
+Negative tweets percentage: 44.44444444444444 %
+
+
+Positive_tweets:
+RT @TeamCRonaldo: World's Most Admired Men 2020 (1-10)
+
+1. Barack Obama ????
+2. Bill Gates ????
+3. Xi Jinping ????
+4. Narendra Modi ????
+5. Jackie…
+RT @CHIZMAGA: Did Barack Obama peacefully transfer power?
+Just a reminder. Did you know that Barack Hussein Obama was trained by actor Harry Lennix, because most politicians… https://t.co/u84xa0vSfG
+RT @Right_NotLeft: You guys ready for the most underrated, albeit, Captain Obvious tweet of the year? 
+
+Barack Obama should be in jail. 
+
+#…
+RT @thebradfordfile: Barack Obama spied on Trump and framed General Flynn during his “peaceful transfer of power.” 
+
+CNN never mentions tha…
+RT @amvetsupport: trump says he will "negotiate" a third term.  First of all we are going to beat him. Next if there is another term for hi…
+
+
+Negative_tweets:
+RT @dbongino: It’s Friday, September 25th 2020, and Barack Obama was the most corrupt President in US history.
+#Obamagate
+RT @thebradfordfile: Imagine the things Barack Obama did that we don't yet know.
+RT @CHIZMAGA: Barack Obama should be charged with Treason.
+Barack Obama still has not TRANSFERED power,he won't let go https://t.co/We9efb3oxd
+RT @ddale8: Trump keeps saying "Barack Hussein Obama" and keeps suggesting he got the same Nobel honor Obama did, though Obama actually won.
+RT @thebradfordfile: Barack Obama spied on Trump, framed Flynn, and sabotaged the their transition--but the media is lecturing Trump.
+@wallsxdiana Barack Obama ??
+@DanteMedema Probably Jacinda Ardern or Barack Obama https://t.co/XLC5dnGD1Y
