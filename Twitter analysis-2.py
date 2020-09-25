@@ -66,7 +66,7 @@ def main():
 
 	api = Twitter_User()
 
-	twitter_tweets = api.tweet_analysis(query = 'Barack Obama', count = 200)
+	twitter_tweets = api.tweet_analysis(query = 'Barack Obama', count = 200)	#Here you can give any name from twitter
 
 	Positive_tweets = [tweet for tweet in twitter_tweets if tweet['sentiment'] == 'positive']
 
